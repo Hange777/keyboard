@@ -1,5 +1,5 @@
 # 40keyboard
- 一把40配列的键盘，外壳用SW2021以上打开，硬件部分用立创专业版导入40_keyboard.epro即可，软件使用vial_qmk固件分支编译，把40v1.1.rar解压到keyboards文件夹下，使用qmk_msys编译得到40_vial.bin文件，然后用串口烧录40_vial.bin文件到stm32里，以下一些图片。
+ 一把40配列的键盘，外壳用SW2021以上打开，硬件部分用立创专业版导入40_keyboard.epro即可，软件使用vial_qmk固件分支编译，把40v1.1.rar解压到keyboards文件夹下，使用qmk_msys编译得到40_vial.bin文件，然后用串口烧录40_vial.bin文件到stm32里，以下是一些图片。
 
 ![1723794496534](README.assets/1723794496534.jpg)
 
